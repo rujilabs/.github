@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rujilabs.com"><img src="../assets/ruji-labs-mark.png" width="96" alt="Ruji Labs"></a>
+  <a href="https://rujilabs.com"><img src="https://raw.githubusercontent.com/rujilabs/.github/main/assets/ruji-labs-mark.png" width="96" alt="Ruji Labs"></a>
 </p>
 
 <h1 align="center">Ruji Labs</h1>
