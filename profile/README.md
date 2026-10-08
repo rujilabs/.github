@@ -27,6 +27,6 @@
 
 - **Stack:** TypeScript, Next.js, React, Astro, Tailwind, Hono, Prisma, MySQL.
 - **Edge:** Cloudflare Pages, Workers, D1, R2 and Cron Triggers.
-- **Agents:** most products expose an MCP server and REST agent API, so Claude and ChatGPT can work with your data.
+- **Agents:** Post-Lah and Berkira expose an MCP server and a REST agent API, so Claude and ChatGPT can work with your data.
 
 Ruji Labs Services (SSM CA0407027-X), Shah Alam, Selangor, Malaysia.
