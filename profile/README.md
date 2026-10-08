@@ -1,8 +1,11 @@
 <p align="center">
-  <a href="https://rujilabs.com"><img src="https://raw.githubusercontent.com/rujilabs/.github/main/assets/ruji-labs-mark.png" width="96" alt="Ruji Labs"></a>
+  <a href="https://rujilabs.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rujilabs/.github/main/assets/ruji-labs-wordmark-white.png">
+      <img src="https://raw.githubusercontent.com/rujilabs/.github/main/assets/ruji-labs-wordmark.png" width="280" alt="Ruji Labs">
+    </picture>
+  </a>
 </p>
-
-<h1 align="center">Ruji Labs</h1>
 
 <p align="center">
   Software products for Malaysian small businesses, built and run in Shah Alam.<br>
